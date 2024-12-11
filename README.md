@@ -1,4 +1,4 @@
-# Stopwatch Timer
+# Stopwatch Timer [Link](https://amarnath-webdev.github.io/Stopwatch-Timer/)
 
 This is a simple stopwatch timer web application built with HTML, CSS, and JavaScript. It allows users to start, stop, and reset the timer, and displays the elapsed time in seconds, minutes, and milliseconds.
 
